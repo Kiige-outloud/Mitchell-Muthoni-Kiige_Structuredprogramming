@@ -10,4 +10,6 @@ Assignment2: Clculating the surface area of a sphere program in C
 
 Assignment3: String lemgth program in C
 
+C files: ATM simulator assignment
+
 Each folder contains the code file(s) for that assignment.
