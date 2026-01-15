@@ -12,4 +12,7 @@ Assignment3: String lemgth program in C
 
 C files: ATM simulator assignment
 
+Arrays:Different tasks on using arrays
+
+
 Each folder contains the code file(s) for that assignment.
